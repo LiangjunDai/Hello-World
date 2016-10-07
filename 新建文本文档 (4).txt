@@ -1,0 +1,3 @@
+git fetch origin
+git checkout -b develop origin/develop
+git merge master
